@@ -7,7 +7,7 @@ void area(int base, int height)
 int main()
 {
   int base,height;
-  scanf("%d,%d",&base,&height);
   printf("enter base and height");
+  scanf("%d,%d",&base,&height);
   area(base,height);
 }
